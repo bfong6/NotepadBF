@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NotepadBF</string>
+    <string name="notepad_lxh">Notepad LXH</string>
+    <string name="_2020_brian_fong">© 2020, Brian Fong</string>
+    <string name="save">Save</string>
+    <string name="about">About</string>
+    <string name="new_note">New Note</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="title">Title</string>
+</resources>
